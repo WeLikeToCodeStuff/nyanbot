@@ -1,0 +1,26 @@
+{
+  "name": "nyanbot",
+  "version": "1.0.0",
+  "description": "This is literally just a discord bot that sends a random NyanCat gif in a channel ",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeLikeToCodeStuff/nyanbot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "WeLikeToCodeStuff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeLikeToCodeStuff/nyanbot/issues"
+  },
+  "homepage": "https://github.com/WeLikeToCodeStuff/nyanbot#readme"
+}
